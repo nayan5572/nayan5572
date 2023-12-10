@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" width="400px" align="right" alt="">
 <br>
+<h2>Current Status</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayan5572&" alt="nayan5572" /></p>
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nayan-halder-696746235/](https://www.linkedin.com/in/nayan-halder-696746235/)
 
@@ -21,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayan5572&show_icons=true&locale=en&layout=compact" alt="nayan5572" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayan5572&show_icons=true&locale=en" alt="nayan5572" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayan5572&" alt="nayan5572" /></p>
