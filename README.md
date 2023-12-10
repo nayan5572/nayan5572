@@ -4,7 +4,7 @@
 <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" width="400px" align="right" alt="">
 <br>
 <h2>Current Status</h2>
-<p style="background-color: purple;" width="400px"><img style="background-color: purple;" width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayan5572&" alt="nayan5572" /></p>
+<p width="400px"><img width="400px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayan5572&" alt="nayan5572" /></p>
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nayan-halder-696746235/](https://www.linkedin.com/in/nayan-halder-696746235/)
 
 - 📫 How to reach me **nayan.dev572@gmail.com**
