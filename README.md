@@ -1,4 +1,4 @@
-<img src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1310143/1021_Engineering_React-Bootstrap_Milena_Cover-ac338ad5dea14b7267a18c5e719fde77.png" alt="">
+<img src="https://www.dunebook.com/wp-content/uploads/2023/04/react--1024x576.png" alt="">
 <h1 align="center">Hi 👋, I'm Nayan Halder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" width="400px" align="right" alt="">
