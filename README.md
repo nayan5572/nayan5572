@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nayan Halder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif" width="400px" align="right" alt="">
-
+<br>
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nayan-halder-696746235/](https://www.linkedin.com/in/nayan-halder-696746235/)
 
 - 📫 How to reach me **nayan.dev572@gmail.com**
