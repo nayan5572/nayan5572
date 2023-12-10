@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nayan Halder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img src="https://dribbble.com/shots/6555657-Animation-Technology" alt="">
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nayan-halder-696746235/](https://www.linkedin.com/in/nayan-halder-696746235/)
 
